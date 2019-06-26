@@ -2,5 +2,5 @@ This project will use parallelism, not for speeding data computation, but for pr
 
 To run:
 copy the included files to your directory
-execute the program:  $ python proj4.cpp
+execute the program:  $ python script.py
 results are saved in output.txt
